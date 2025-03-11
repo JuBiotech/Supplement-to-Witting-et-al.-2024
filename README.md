@@ -1,4 +1,6 @@
-# Supplement-to-Witting-et-al.-2024 (DOI: 10.1039/D4LC00567H)
+# Supplement-to-Witting-et-al.-2024 
+
+DOI: 10.1039/D4LC00567H
 
 ## Multi-Cultivator_Analysis
 
